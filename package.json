@@ -1,0 +1,20 @@
+{
+  "name": "superpeer-task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:hayatbiralem/superpeer-task.git",
+  "author": "Ömür Yanıkoğlu <hayatbiralem@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "prebuild": "rm -rf dist",
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "dependencies": {
+    "sass-mq": "^5.0.1"
+  },
+  "devDependencies": {
+    "cssnano": "^4.1.10",
+    "sass": "^1.26.11"
+  }
+}

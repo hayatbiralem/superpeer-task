@@ -1,0 +1,20 @@
+/* ==========================================================================
+   #VIDEO-PREVIEW
+   ========================================================================== */
+
+.c-video-preview__figure {
+  position: relative;
+}
+
+.c-video-preview__image {
+  border-radius: $global-radius;
+}
+
+.c-video-preview__controls {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 12px;
+
+  text-align: center;
+}

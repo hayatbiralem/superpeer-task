@@ -1,0 +1,14 @@
+/* ==========================================================================
+   #WAITING-ROOM
+   ========================================================================== */
+
+$waiting-room-bg: $color-gray-10 !default;
+
+$waiting-room-padding-tablet: 111px 30px;
+
+@include mq($from: 480px) {
+  .c-waiting-room {
+    padding: $waiting-room-padding-tablet;
+    background-color: $waiting-room-bg;
+  }
+}
