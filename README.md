@@ -2,6 +2,10 @@
 
 This project tries to solve the task on [the link](https://kodilan.com/ilanlar/superpeer-ui-developer).
 
+## Demo
+
+You can check the result on both desktop and mobile devices by visiting http://superpeertask.test.rebootworks.com/
+
 ## Usage
 
 ```
