@@ -37,5 +37,5 @@ And then visit http://localhost:1234/
 
 - I love CSS and Math.
 - I've been coding CSS since 2010.
-- I also know NodeJS, PHP, Laravel, WordPress... In short I know back-end stuff.
+- I also know NodeJS, PHP, Laravel, WordPress, bash and servers... In short I know back-end stuff.
 - I'm good at reeading and writing in English. I've been talking to Cambly teachers for two years now, so I'm good to listen and talk too. I am comfortable in daily conversations but I must say that my vocabulary and grammar is poor.
