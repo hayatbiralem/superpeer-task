@@ -20,7 +20,7 @@ And then visit http://localhost:1234/
 - I used comments to make things clear in HTML and CSS.
 - I tried to use semantic syntax and accessibility attributes.
 - I used inline SVG sprite.
-- I tried to achieve pixel perfect by using screenshots as layers in Photoshop. See the `pixel-perfect.png` file.
+- I tried to achieve pixel perfect by using screenshots as layers in Photoshop. See the [pixel-perfect.png](pixel-perfect.png) file.
 - I used responsive images.
 - I made sure that the real mobile experience can be tested at widths of 479px and below.
 - I used mobile first approach.
