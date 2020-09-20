@@ -30,5 +30,5 @@ And then visit http://localhost:1234/
 - I used mobile first approach.
 - I checked Chrome, Firefox, Opera, Edge, IE11, iOS Safari/Chrome, Android Default/Chrome browsers.
 - I fixed the select apperance issue at IE11.
-- I fixed the iOS Safari input zoom problem caused by the input size being 15px (below 16px) and I made a sass mixin for it.
+- I fixed the iOS Safari input zoom problem caused by the input size being 15px (below 16px) and I made a SASS mixin for it.
 - I couldn't solve the text ellipsis issue on IE11 with only CSS but I could with some Javascript by following [this approach](https://nikitahl.com/text-overflow-ellipsis-on-select-tag/).
