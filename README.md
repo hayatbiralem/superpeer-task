@@ -13,6 +13,8 @@ git clone git@github.com:hayatbiralem/superpeer-task.git
 cd superpeer-task
 yarn install
 yarn dev
+# or
+yarn build
 ```
 
 And then visit http://localhost:1234/
@@ -35,7 +37,7 @@ And then visit http://localhost:1234/
 
 ## My Qualifications
 
-- I love CSS and Math.
+- I love CSS, Math and solving problems.
 - I've been coding CSS since 2010.
 - I also know NodeJS, PHP, Laravel, WordPress, bash and servers... In short I know back-end stuff.
 - I'm good at reading and writing in English. I've been talking to Cambly teachers for two years now (you can verify that by following [this link](https://www.cambly.com/en/certificate/verify/f8478219)), so I'm good at listening and speaking too. I am comfortable in daily conversations but I must say that my vocabulary and grammar are poor.

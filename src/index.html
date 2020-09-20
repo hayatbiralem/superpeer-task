@@ -178,12 +178,10 @@
                 <option value="2">Other Camera</option>
               </select>
               <span class="c-form__input-base" aria-hidden="true"></span>
-              <span class="">
-                <svg class="c-form__caret" width="18" height="18" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
-                  xmlns:xlink="http://www.w3.org/1999/xlink">
-                  <use xlink:href="#icon-fill-arrow-down"></use>
-                </svg>
-              </span>
+              <svg class="c-form__caret" width="18" height="18" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"
+                xmlns:xlink="http://www.w3.org/1999/xlink">
+                <use xlink:href="#icon-fill-arrow-down"></use>
+              </svg>
             </div>
             <!-- /.c-form__field -->
 
@@ -198,7 +196,7 @@
             <!-- /.c-form__label -->
 
             <!-- .c-form__field -->
-            <div class="c-form__field c-form__field--select">
+            <div class="c-form__field c-form__field--select c-form__field--error">
               <select class="c-form__input c-form__input--select" name="call[speaker]" id="call_speaker">
                 <option value="">Choose...</option>
                 <option value="1" selected>Built-in Output (Headphone)</option>
@@ -224,8 +222,8 @@
             <!-- /.c-form__label -->
 
             <!-- .c-form__field -->
-            <div class="c-form__field c-form__field--select">
-              <select class="c-form__input c-form__input--select" name="call[speaker]" id="call_speaker">
+            <div class="c-form__field c-form__field--select c-form__field--success c-form__field--disabled">
+              <select class="c-form__input c-form__input--select" name="call[microphone]" id="call_microphone" disabled>
                 <option value="">Choose...</option>
                 <option value="1" selected>Built-in Microphone (Elorem Ipsum)</option>
                 <option value="2">Other Microphone (Dolor Sit Amet)</option>
