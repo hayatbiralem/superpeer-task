@@ -8,13 +8,16 @@
   "scripts": {
     "prebuild": "rm -rf dist",
     "dev": "parcel src/index.html",
-    "build": "parcel build src/index.html"
+    "build": "parcel build src/index.html --out-file index.php"
   },
   "dependencies": {
+    "autoprefixer": "9.8.6",
     "sass-mq": "^5.0.1"
   },
   "devDependencies": {
     "cssnano": "^4.1.10",
+    "postcss": "^8.0.2",
+    "postcss-modules": "^3.2.2",
     "sass": "^1.26.11"
   }
 }
