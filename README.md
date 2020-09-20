@@ -24,6 +24,6 @@ And then visit http://localhost:1234/
 - I used responsive images.
 - I made sure that the real mobile experience can be tested at widths of 479px and below.
 - I used mobile first approach.
-- I check Chrome, Firefox, Opera, Edge and IE11.
+- I check Chrome, Firefox, Opera, Edge, IE11, iOs Safari/Chrome, Android Default/Chrome.
 - I fixed the select apperance issue at IE11.
 - I fixed the ios safari input zoom problem caused by the input size being 15px (below 16px) and I made a sass mixin for it.
