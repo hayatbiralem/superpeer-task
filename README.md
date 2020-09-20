@@ -1,6 +1,6 @@
 # Superpeer Task
 
-This project tries to solve the task on [the link](https://kodilan.com/ilanlar/superpeer-ui-developer).
+This project tries to solve the task on https://kodilan.com/ilanlar/superpeer-ui-developer
 
 ## Demo
 
