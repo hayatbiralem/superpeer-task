@@ -8,7 +8,7 @@ You can check the result on both desktop and mobile devices by visiting http://s
 
 ## Vue Version
 
-You can check the Vue version by visiting http://superpeertaskvue.test.rebootworks.com/
+You can check the Vue version by visiting https://github.com/hayatbiralem/superpeer-task-vue/
 
 ## Usage
 
